@@ -1,0 +1,10 @@
+C:\Users\timmy\OneDrive\ECET 16400 (PROGRAMMING)\TimothyMcNamaraLab_03\TimothyMcNamaraLab_03\bin\Debug\TimothyMcNamaraLab_03.exe.config
+C:\Users\timmy\OneDrive\ECET 16400 (PROGRAMMING)\TimothyMcNamaraLab_03\TimothyMcNamaraLab_03\bin\Debug\TimothyMcNamaraLab_03.exe
+C:\Users\timmy\OneDrive\ECET 16400 (PROGRAMMING)\TimothyMcNamaraLab_03\TimothyMcNamaraLab_03\bin\Debug\TimothyMcNamaraLab_03.pdb
+C:\Users\timmy\OneDrive\ECET 16400 (PROGRAMMING)\TimothyMcNamaraLab_03\TimothyMcNamaraLab_03\obj\Debug\TimothyMcNamaraLab_03.csproj.AssemblyReference.cache
+C:\Users\timmy\OneDrive\ECET 16400 (PROGRAMMING)\TimothyMcNamaraLab_03\TimothyMcNamaraLab_03\obj\Debug\TimothyMcNamaraLab_03.DistanceCalculator.resources
+C:\Users\timmy\OneDrive\ECET 16400 (PROGRAMMING)\TimothyMcNamaraLab_03\TimothyMcNamaraLab_03\obj\Debug\TimothyMcNamaraLab_03.Properties.Resources.resources
+C:\Users\timmy\OneDrive\ECET 16400 (PROGRAMMING)\TimothyMcNamaraLab_03\TimothyMcNamaraLab_03\obj\Debug\TimothyMcNamaraLab_03.csproj.GenerateResource.cache
+C:\Users\timmy\OneDrive\ECET 16400 (PROGRAMMING)\TimothyMcNamaraLab_03\TimothyMcNamaraLab_03\obj\Debug\TimothyMcNamaraLab_03.csproj.CoreCompileInputs.cache
+C:\Users\timmy\OneDrive\ECET 16400 (PROGRAMMING)\TimothyMcNamaraLab_03\TimothyMcNamaraLab_03\obj\Debug\TimothyMcNamaraLab_03.exe
+C:\Users\timmy\OneDrive\ECET 16400 (PROGRAMMING)\TimothyMcNamaraLab_03\TimothyMcNamaraLab_03\obj\Debug\TimothyMcNamaraLab_03.pdb

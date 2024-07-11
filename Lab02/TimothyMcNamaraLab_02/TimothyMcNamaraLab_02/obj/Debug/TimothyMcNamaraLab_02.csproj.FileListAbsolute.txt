@@ -1,0 +1,10 @@
+C:\Users\timmy\OneDrive\ECET 16400 (PROGRAMMING)\TimothyMcNamaraLab_02\TimothyMcNamaraLab_02\bin\Debug\TimothyMcNamaraLab_02.exe.config
+C:\Users\timmy\OneDrive\ECET 16400 (PROGRAMMING)\TimothyMcNamaraLab_02\TimothyMcNamaraLab_02\bin\Debug\TimothyMcNamaraLab_02.exe
+C:\Users\timmy\OneDrive\ECET 16400 (PROGRAMMING)\TimothyMcNamaraLab_02\TimothyMcNamaraLab_02\bin\Debug\TimothyMcNamaraLab_02.pdb
+C:\Users\timmy\OneDrive\ECET 16400 (PROGRAMMING)\TimothyMcNamaraLab_02\TimothyMcNamaraLab_02\obj\Debug\TimothyMcNamaraLab_02.csproj.AssemblyReference.cache
+C:\Users\timmy\OneDrive\ECET 16400 (PROGRAMMING)\TimothyMcNamaraLab_02\TimothyMcNamaraLab_02\obj\Debug\TimothyMcNamaraLab_02.tempConverter.resources
+C:\Users\timmy\OneDrive\ECET 16400 (PROGRAMMING)\TimothyMcNamaraLab_02\TimothyMcNamaraLab_02\obj\Debug\TimothyMcNamaraLab_02.Properties.Resources.resources
+C:\Users\timmy\OneDrive\ECET 16400 (PROGRAMMING)\TimothyMcNamaraLab_02\TimothyMcNamaraLab_02\obj\Debug\TimothyMcNamaraLab_02.csproj.GenerateResource.cache
+C:\Users\timmy\OneDrive\ECET 16400 (PROGRAMMING)\TimothyMcNamaraLab_02\TimothyMcNamaraLab_02\obj\Debug\TimothyMcNamaraLab_02.csproj.CoreCompileInputs.cache
+C:\Users\timmy\OneDrive\ECET 16400 (PROGRAMMING)\TimothyMcNamaraLab_02\TimothyMcNamaraLab_02\obj\Debug\TimothyMcNamaraLab_02.exe
+C:\Users\timmy\OneDrive\ECET 16400 (PROGRAMMING)\TimothyMcNamaraLab_02\TimothyMcNamaraLab_02\obj\Debug\TimothyMcNamaraLab_02.pdb
