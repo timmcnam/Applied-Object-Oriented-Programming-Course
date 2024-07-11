@@ -1,0 +1,10 @@
+C:\Users\timmy\source\repos\TimothyMcNamaraLab_05_06\TimothyMcNamaraLab_05_06\bin\Debug\TimothyMcNamaraLab_05_06.exe.config
+C:\Users\timmy\source\repos\TimothyMcNamaraLab_05_06\TimothyMcNamaraLab_05_06\bin\Debug\TimothyMcNamaraLab_05_06.exe
+C:\Users\timmy\source\repos\TimothyMcNamaraLab_05_06\TimothyMcNamaraLab_05_06\bin\Debug\TimothyMcNamaraLab_05_06.pdb
+C:\Users\timmy\source\repos\TimothyMcNamaraLab_05_06\TimothyMcNamaraLab_05_06\obj\Debug\TimothyMcNamaraLab_05_06.csproj.AssemblyReference.cache
+C:\Users\timmy\source\repos\TimothyMcNamaraLab_05_06\TimothyMcNamaraLab_05_06\obj\Debug\TimothyMcNamaraLab_05_06.DistanceCalculator.resources
+C:\Users\timmy\source\repos\TimothyMcNamaraLab_05_06\TimothyMcNamaraLab_05_06\obj\Debug\TimothyMcNamaraLab_05_06.Properties.Resources.resources
+C:\Users\timmy\source\repos\TimothyMcNamaraLab_05_06\TimothyMcNamaraLab_05_06\obj\Debug\TimothyMcNamaraLab_05_06.csproj.GenerateResource.cache
+C:\Users\timmy\source\repos\TimothyMcNamaraLab_05_06\TimothyMcNamaraLab_05_06\obj\Debug\TimothyMcNamaraLab_05_06.csproj.CoreCompileInputs.cache
+C:\Users\timmy\source\repos\TimothyMcNamaraLab_05_06\TimothyMcNamaraLab_05_06\obj\Debug\TimothyMcNamaraLab_05_06.exe
+C:\Users\timmy\source\repos\TimothyMcNamaraLab_05_06\TimothyMcNamaraLab_05_06\obj\Debug\TimothyMcNamaraLab_05_06.pdb
