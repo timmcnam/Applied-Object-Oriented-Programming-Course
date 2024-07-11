@@ -1,0 +1,10 @@
+C:\Users\timmy\OneDrive\ECET 16400 (PROGRAMMING)\McNamara_Lab11_164\McNamara_Lab11_164\bin\Debug\McNamara_Lab11_164.exe.config
+C:\Users\timmy\OneDrive\ECET 16400 (PROGRAMMING)\McNamara_Lab11_164\McNamara_Lab11_164\bin\Debug\McNamara_Lab11_164.exe
+C:\Users\timmy\OneDrive\ECET 16400 (PROGRAMMING)\McNamara_Lab11_164\McNamara_Lab11_164\bin\Debug\McNamara_Lab11_164.pdb
+C:\Users\timmy\OneDrive\ECET 16400 (PROGRAMMING)\McNamara_Lab11_164\McNamara_Lab11_164\obj\Debug\McNamara_Lab11_164.csproj.AssemblyReference.cache
+C:\Users\timmy\OneDrive\ECET 16400 (PROGRAMMING)\McNamara_Lab11_164\McNamara_Lab11_164\obj\Debug\McNamara_Lab11_164.WeatherApp.resources
+C:\Users\timmy\OneDrive\ECET 16400 (PROGRAMMING)\McNamara_Lab11_164\McNamara_Lab11_164\obj\Debug\McNamara_Lab11_164.Properties.Resources.resources
+C:\Users\timmy\OneDrive\ECET 16400 (PROGRAMMING)\McNamara_Lab11_164\McNamara_Lab11_164\obj\Debug\McNamara_Lab11_164.csproj.GenerateResource.cache
+C:\Users\timmy\OneDrive\ECET 16400 (PROGRAMMING)\McNamara_Lab11_164\McNamara_Lab11_164\obj\Debug\McNamara_Lab11_164.csproj.CoreCompileInputs.cache
+C:\Users\timmy\OneDrive\ECET 16400 (PROGRAMMING)\McNamara_Lab11_164\McNamara_Lab11_164\obj\Debug\McNamara_Lab11_164.exe
+C:\Users\timmy\OneDrive\ECET 16400 (PROGRAMMING)\McNamara_Lab11_164\McNamara_Lab11_164\obj\Debug\McNamara_Lab11_164.pdb
